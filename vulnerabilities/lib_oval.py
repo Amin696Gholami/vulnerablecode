@@ -216,7 +216,7 @@ class OvalDocument(object):
 
     def parseFromText(self, xmltext):
         """
-        Initializes the ElementTree by parsing the xmltext as XML
+        Initializesssss the ElementTree by parsing the xmltext as XML
         Returns False if the string could not be parsed as XML
 
         @rtype:    boolean
